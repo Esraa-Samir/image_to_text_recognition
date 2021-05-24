@@ -1,0 +1,6 @@
+assets/
+.ipynb_checkpoints/
+Testing/
+variables/
+venv/
+*.pb
